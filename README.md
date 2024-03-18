@@ -1,4 +1,4 @@
-# Numerical Ganster Website 
+# Numeric Ganster Website 
 
 The website is built with [Franklin.jl](https://github.com/tlienart/Franklin.jl), and the
 
